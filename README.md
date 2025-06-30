@@ -2,7 +2,8 @@
 
 Welcome to the **Pandas Notebook** — your interactive and beginner-friendly guide to one of the most powerful Python libraries for data analysis and manipulation: **Pandas**.
 
-[![Open in Colab](https://colab.research.google.com/drive/1LGtSgTd2wxWnje6kOaHFnEBE4ZIbEhI9#scrollTo=vnPn3AS3i6AL)](#) 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LGtSgTd2wxWnje6kOaHFnEBE4ZIbEhI9)
+
 
 ---
 
